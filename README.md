@@ -1,4 +1,4 @@
-# Nome do projeto
+# F-Tube
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -14,10 +14,10 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
+- [ ] Mudar nome e logo do site
+- [ ] Criar a funcionalidade para mudar tema (Dark e Light) 
+- [ ] Adicionar a possibilidade de usar a Spech API para usar o comando de voz na barra de pesquisa
+- [ ] Adicionar uma barra de rolagem para as categorias dos vídeos
 - [ ] Tarefa 5
 
 ## 💻 Pré-requisitos
