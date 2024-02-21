@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 *,
 *::before,
 *::after {
@@ -38,6 +39,25 @@ body {
 .logo__item {
     padding: 15px 0px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.logo__item i{
+    font-size: 40px;
+    color: var(--azul-destaque-light);
+}
+.logo__item p{
+    font-size: 35px;
+    font-weight: 700;
+    color: var(--azul-destaque-light);
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+.logo__item p span{
+    color: var(--azul-medio);
 }
 
 .pesquisar__input {
